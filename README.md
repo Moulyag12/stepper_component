@@ -1,1 +1,1 @@
-git add stepper.png
+![Stepper Component](./public/stepper.png)
